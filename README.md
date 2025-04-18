@@ -1,13 +1,13 @@
 <h1 align="center">✨ Welcome to My GitHub ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%E2%80%9CEvery+great+developer+you+know+got+there+by+solving+problems+they+were+unqualified+to+solve+until+they+actually+did+it.%E2%80%9D;~+Patrick+McKenzie" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=4000&pause=1000&color=2C2C2C&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Everything+Will+Be+OK" alt="Typing SVG">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img src="https://i.pinimg.com/originals/e2/d5/5f/e2d55fd9ff77ee8ec5c66d28c24ebf49.gif" width="200" alt="Law L Coding">
 </p>
 
 <p align="center">
