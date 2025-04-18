@@ -1,7 +1,7 @@
 <h1 align="center">🖤 Everything Will Be OK 🖤</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=28&duration=3000&pause=1000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=500&lines=Everything+Will+Be+OK" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=28&duration=3000&pause=1000&color=2C2C2C&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Everything+Will+Be+OK" alt="Typing SVG">
 </p>
 
 <p align="center">
