@@ -47,6 +47,9 @@ I'm a Software Engineer passionate about building modern, scalable, and maintain
   <a href="https://hajuenter.github.io/literasi_digital_cv">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://skills.google">
+    <img src="https://shields.io" alt="Google Skills" />
+  </a>
 </p>
 
 ---
