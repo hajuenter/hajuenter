@@ -2,7 +2,7 @@ Hi, I'm Hajuenter
 
 Software Engineer
 
-I'm a Software Engineer passionate about building modern, scalable, and maintainable software solutions. I enjoy exploring new technologies, developing web applications, and continuously improving my software engineering skills.
+I'm a Software Engineer passionate about building modern, scalable, and maintainable software solutions. I enjoy exploring technologies, developing web applications, and continuously improving my software engineering skills.
 
 ---
 
