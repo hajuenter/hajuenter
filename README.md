@@ -41,14 +41,11 @@ Frontend Development
 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/ach-bahrul-ma-arip-a1a14b313">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://hajuenter.github.io/literasi_digital_cv">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.skills.google/public_profiles/6ebf0457-46cb-4a8e-a2ae-9629db6f31de">
-    <img src="https://img.shields.io/badge/Google_Skills-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Skills" />
+    <img src="https://img.shields.io/badge/Google_Skills-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Skills" />
   </a>
 </p>---
 
